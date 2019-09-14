@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A0A5A329-A270-5042-EC7C-A36AA40150F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoinPickup.cs">
+    <Files>
+      <File FileName="Assets/Mario/Scripts/AiPatrol.js" Line="61" Column="22" />
+      <File FileName="Assets/Mario/Scripts/CameraController.js" Line="18" Column="40" />
+      <File FileName="Assets/Scripts/CoinPickup.cs" Line="14" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperMario2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mario" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="CoinPickup.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4fa0a9be-517a-4b62-89ad-26001dc020d2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

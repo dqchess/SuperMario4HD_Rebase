@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{07764673-AABC-99BC-2BF3-B69B9A761508}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlockNonDestroy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pipe001Entry.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Preloads/Level01_Preload.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Death/Level01_Death.cs" Line="14" Column="36" />
+      <File FileName="Assets/Scripts/CoinPickup.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/GlobalCoins.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/GlobalLives.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/GameStart.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/BlockNonDestroy.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/MushroomManMove.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a3f84ce-f5e2-4256-b10c-fd41509bc62b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="4ba9b6d6-b5f0-402c-b0a9-1e56492a5f53" />
+</Properties>
